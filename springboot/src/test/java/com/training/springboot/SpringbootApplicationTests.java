@@ -1,4 +1,4 @@
-package com.moodys.training.springboot;
+package com.training.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
